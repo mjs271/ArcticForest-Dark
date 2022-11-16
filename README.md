@@ -25,3 +25,5 @@ I'll also include some screenshots and the theme files for my iTerm2 and Visual 
 ## Installation (<kbd>To Do</kbd>)
 
 ## License
+
+[MIT License](https://github.com/mjs271/ArcticForest-Dark/blob/main/LICENSE)
