@@ -13,7 +13,7 @@ I'll also include some screenshots and the theme files for my iTerm2 and Visual 
 
 
 <!-- ![ArcticForest Dark--Sublime Text python](./img/ArcticForest-Dark_sublime_python.png) -->
-<img src="./img/ArcticForest-Dark_sublime_python-new.png" alt="ArcticForest Dark--Sublime Text python" width="800" />
+<img src="./img/ArcticForest-Dark_sublime_python-new.png" alt="ArcticForest Dark--Sublime Text python" width="1200" />
 
 #### iTerm2
 
